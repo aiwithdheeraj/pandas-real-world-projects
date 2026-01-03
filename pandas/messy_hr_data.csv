@@ -1,0 +1,1001 @@
+EmployeeID,Name,Department,Salary,Performance,JoinDate,Experience
+427,Priya,IT,,6,,3
+466,Vikas,Sale,"88,878",3,,
+294,Priya,it,₹64671,5,,0 yrs
+140,Riya,HR,65k,2,,five
+294,Karan,sales ,,2,9/2/2021,1 year
+429,Sunil,Sales,"103,579",3,abc,1
+421,John,FINANCE,₹108172,4,18/1/2020,5 yrs
+322,John, IT,"53,416",1,20/4/2021,8 yrs
+350,Rahul,HR,77576,5,,7 yrs
+370,Neha,I.T.,₹56365,6,,1
+401,Riya,IT,39305,1,abc,five
+224,Sara, IT,₹42363,3,2023-07-15,
+227,Riya,Finance,100292,3,2023-04-28,
+485,Riya,Sales,₹93092,1,13/5/2023,6
+197,Karan,Finance,104k,1,2020-10-16,
+404,Priya,sales ,60828,5,14/11/2022,3
+235,Omar,Sales,112k,1,,4 yrs
+135,Riya,it,50k,5,,4
+239,Karan,Hr ,73k,5,2/2/2023,0
+426,Karan,Sales,,1,,2 yrs
+286,Sara,IT,,3,,0 yrs
+500,Omar,FINANCE,,4,7/8/2022,3
+304,Aisha,Operations,"114,080",4,2022-01-04,9 yrs
+473,Sara,it,₹97033,5,,6 yrs
+419,Aisha,sales ,₹96469,3,abc,6 yrs
+307,Pooja,IT,"86,346",5,abc,10 yrs
+363,Vikas,sales ,72k,2,2021-03-01,five
+353,Omar,Finance,₹30726,2,2021-12-17,2 yrs
+486,Sunil,Hr ,96162,6,abc,three
+139,Amit,Operations,"71,904",1,,6 yrs
+377,Sunil,I.T.,"81,049",6,16/1/2022,five
+212,Karan,I.T.,₹80968,6,abc,
+429,Omar,Sales,₹36590,3,abc,
+483,Pooja,IT,,1,,2
+338,Amit,Operations,,2,abc,
+456,Sara,Operations,,3,2023-11-12,two
+285,Vikas, IT,85k,5,27/12/2022,three
+224,Sara, IT,108k,1,16/4/2022,
+364,Riya,HR,61635,6,2023-11-23,4
+256,Vikas,Hr ,90k,4,15/5/2022,1 yrs
+161,Amit,financee,54k,6,7/5/2021,2
+240,Rahul,IT,₹46551,1,16/8/2023,three
+158,Priya,I.T.,,2,abc,five
+330,Sunil,Operations,"104,531",1,,3
+101,Omar, IT,107832,3,15/2/2021,five
+158,Pooja,Finance,,1,abc,three
+239,Pooja,financee,,4,2022-10-09,10
+340,Pooja,sales ,₹53788,6,12/7/2022,1 yrs
+310,Amit, IT,,4,2020-06-09,1 year
+127,Riya,financee,₹95338,1,abc,1
+259,Pooja,IT,,4,5/8/2022,6
+333,Pooja,Sales,80277,1,2022-07-11,4
+328,Pooja, IT,₹102340,4,,three
+461,Sara,I.T.,₹115461,1,2021-09-19,8
+309,Vikas,Sales,"74,375",6,28/6/2023,
+220,Vikas,sales ,,6,2020-08-06,0 yrs
+291,Omar,Sales,62007,2,abc,five
+426,Karan, IT,115k,6,abc,4
+296,Sunil,HR,"77,049",3,2022-01-27,two
+246,Sara,FINANCE,60162,5,2022-11-25,10 yrs
+325,Rahul,Hr ,46k,6,5/9/2022,4 yrs
+482,Aisha,FINANCE,45095,6,3/7/2020,1 yrs
+444,Amit,sales ,104k,1,,1 yrs
+432,Omar,HR,₹34877,1,5/7/2023,10
+312,Vikas,HR,,6,2022-04-15,
+303,Karan,Finance,46011,6,,1
+219,Aisha,FINANCE,49340,2,2022-03-04,
+189,Karan,IT,,4,,three
+429,Rahul,IT,,4,2023-02-03,three
+405,Pooja,Operations,,6,abc,3 yrs
+332,Omar,I.T.,70k,3,2021-11-16,6
+384,Rahul,Hr ,,4,14/12/2020,
+395,Pooja,Finance,,3,abc,9 yrs
+114,John,Operations,70499,2,2023-02-05,1 year
+332,Aisha,Sales,"104,395",1,2020-03-06,1 year
+410,Sunil,I.T.,57k,4,22/10/2023,
+103,Riya,Operations,47k,1,abc,
+303,Amit,IT,32k,5,23/11/2023,6 yrs
+187,Sara,Hr ,₹77428,1,abc,5 yrs
+498,John,HR,"99,547",2,,1
+188,Neha,Sales,₹53218,4,21/11/2022,two
+326,Vikas,Operations,"76,129",1,2/1/2022,two
+336,Neha,financee,35376,3,2/8/2020,
+226,Amit, IT,87595,3,14/6/2020,two
+245,Karan,Sale,,5,,three
+429,Sara,it,,6,,3
+215,John,Sales,"96,543",6,abc,2
+469,Sunil,IT,₹118652,5,15/4/2021,three
+336,Sara,Operations,80052,2,2021-05-02,
+490,John,Operations,,2,14/1/2023,6 yrs
+214,Rahul,it,42987,1,abc,
+231,Riya,Sales,,3,abc,
+423,Pooja,Hr ,,5,14/3/2020,two
+340,Rahul,sales ,77k,1,22/11/2020,0 yrs
+429,John,FINANCE,119742,2,,3 yrs
+258,Pooja,I.T.,101176,3,2022-01-28,1 year
+297,Aisha,Sales,"78,148",3,3/7/2021,1 yrs
+438,Karan,Operations,₹85851,3,28/6/2023,two
+286,Pooja,FINANCE,"48,714",6,3/4/2022,6
+447,Sunil,it,78760,5,2022-07-11,1 year
+387,Priya,Operations,"58,124",3,,1 yrs
+463,Priya,financee,101063,3,abc,three
+382,John,Hr ,₹70539,5,19/2/2021,1 year
+448,Pooja,it,46821,2,2/2/2021,2
+277,Pooja,Operations,"113,238",3,,9
+437,Neha,Sale,,1,abc,two
+421,Pooja,Operations,₹93300,3,abc,7 yrs
+410,John,it,74k,5,abc,
+248,Omar,Hr ,"72,917",6,abc,
+301,Pooja, IT,,1,27/11/2023,two
+168,Karan,Sale,₹77964,1,abc,8
+149,Omar,it,74444,5,2/1/2021,7
+410,Pooja,Sales,₹71750,5,17/9/2023,0 yrs
+444,Priya,I.T.,"33,492",4,2022-11-26,five
+175,Vikas,Finance,,4,abc,
+461,John,financee,₹72604,5,15/9/2022,three
+198,Riya,Operations,68k,6,16/6/2023,
+393,Vikas,financee,80k,1,abc,3 yrs
+170,Priya,Hr ,"36,653",2,2021-01-04,10
+308,Vikas, IT,113k,3,,two
+353,John,Sale,"69,110",5,,8
+157,Aisha,Sales,,6,abc,
+305,Vikas,HR,54219,1,15/5/2022,9 yrs
+434,Aisha,Sale,₹117528,3,2021-07-22,10
+212,John, IT,₹109395,6,2023-09-26,
+388,Priya,IT,"105,065",2,,two
+128,Sunil,Sales,,5,abc,
+123,Omar,it,₹37897,1,25/3/2023,1 year
+141,Vikas,sales ,,2,2023-09-05,1 year
+217,Riya, IT,,1,2023-10-25,two
+406,Vikas,Sale,₹35798,2,17/5/2021,9
+254,John,sales ,58k,1,2021-11-22,10 yrs
+456,Omar,I.T.,"54,101",4,abc,1 year
+385,Pooja,Sales,61k,6,2020-08-28,
+196,Sara,FINANCE,₹103249,2,abc,five
+222,Pooja,it,78k,3,abc,3 yrs
+311,Rahul,Hr ,"64,180",5,abc,3 yrs
+231,Sara, IT,92k,2,2021-12-18,
+311,John,sales ,60334,5,abc,
+108,Pooja,Sale,"32,246",6,,9 yrs
+236,Sara,I.T.,"90,161",2,2021-05-22,1 year
+128,Vikas,IT,40k,5,8/4/2023,
+191,Aisha,IT,,3,abc,
+150,Omar,Finance,"110,460",4,,1 year
+195,Vikas,Hr ,78k,2,abc,
+102,Karan, IT,,2,2023-08-18,
+405,Neha,FINANCE,₹31617,4,abc,2 yrs
+237,Sunil,Sales,₹86973,3,,1 yrs
+103,Omar,it,78k,4,abc,2 yrs
+249,Amit,Sale,92k,4,,two
+462,Riya, IT,₹39064,2,abc,1 year
+373,Pooja,Sale,"77,124",5,,two
+485,Aisha,FINANCE,43k,2,13/8/2021,7 yrs
+312,Priya,HR,₹70880,2,4/8/2023,
+111,Aisha,sales ,"61,970",2,abc,five
+302,Rahul,Sale,₹88926,4,2020-12-07,2 yrs
+200,Sunil,HR,115k,5,19/2/2022,9 yrs
+414,Neha,HR,118094,3,abc,1 year
+195,Sunil,sales ,"52,706",2,2023-05-05,5
+199,Omar,financee,₹94876,4,,4
+375,Karan,Sales,"102,053",1,abc,
+476,Vikas,FINANCE,68k,3,4/4/2021,9
+415,John,FINANCE,56k,5,6/6/2022,9
+484,Sara,I.T.,37770,2,abc,three
+292,Sunil,HR,41k,6,2022-08-16,
+373,Omar,Finance,57k,3,5/10/2023,
+420,Sara, IT,₹50707,1,,1 yrs
+142,Aisha,sales ,51k,6,2021-07-21,3
+403,Riya,financee,86k,1,abc,1 yrs
+288,Karan,Sales,80164,1,,1 year
+211,Priya,HR,45k,4,,
+437,Karan,Finance,₹96784,3,abc,
+284,Aisha,Sales,"77,895",6,2021-08-25,
+303,Pooja,Operations,₹84451,1,,
+258,Amit,I.T.,₹62044,1,2023-10-20,0
+354,Aisha,financee,97793,6,abc,8 yrs
+464,Neha,sales ,93k,1,2023-10-06,9
+479,Pooja,IT,₹62053,3,,3 yrs
+238,Priya,Hr ,,2,13/2/2023,two
+104,Aisha,Finance,68219,4,,0
+377,Aisha,sales ,₹30191,6,abc,
+122,Riya,financee,,5,2020-09-05,6
+249,Karan,it,₹72762,3,,1 year
+260,Omar,HR,75k,4,2022-02-03,
+464,Riya,it,95k,3,2021-01-13,
+106,Rahul,FINANCE,46k,6,2020-10-19,3
+147,Sara,it,46059,5,abc,2
+240,Karan, IT,"111,156",2,2022-08-14,five
+202,Vikas,FINANCE,,4,26/8/2022,
+263,Neha,Finance,"91,824",3,8/11/2021,five
+281,John,Sales,"77,026",1,abc,five
+119,Priya,IT,"32,612",4,,5
+400,Amit,Sales,97k,6,,6 yrs
+189,Amit,financee,"117,232",2,,
+193,Neha,it,,4,3/4/2022,10 yrs
+328,Rahul,Operations,61k,1,,7 yrs
+379,Omar,HR,92847,4,2020-01-10,five
+182,Amit,HR,"107,860",4,,0
+197,Omar,Sale,99k,3,,two
+144,Karan,sales ,,1,2021-03-21,1 year
+438,Karan,HR,99k,4,abc,
+177,Sara,Sale,42k,5,abc,8
+343,Karan,HR,"104,870",5,,two
+140,Vikas,I.T.,110k,3,18/7/2022,two
+157,Omar,Sales,,1,18/6/2023,1 year
+119,John,Operations,₹111034,1,8/1/2023,0 yrs
+259,Karan, IT,42k,6,,1 year
+488,Pooja,it,95k,6,,3
+116,Sunil,IT,120k,4,22/1/2021,7
+342,Neha,financee,,3,,3 yrs
+433,Omar,financee,32628,6,1/4/2022,1 year
+278,Sunil,Operations,"118,761",5,1/9/2022,two
+132,Aisha,Operations,71k,2,8/1/2023,two
+251,Karan,I.T.,"106,418",2,8/11/2023,8
+250,Priya, IT,63k,6,abc,5 yrs
+337,Priya, IT,"106,062",1,4/11/2023,6
+202,Aisha,I.T.,104632,1,2023-06-21,7
+395,Sara,Sales,₹46961,6,2023-07-14,
+264,Sara,financee,54979,2,,0 yrs
+333,Amit,financee,108167,3,2023-06-25,3
+475,Rahul,Hr ,,4,2022-09-20,
+313,Sunil,I.T.,46199,2,,1 yrs
+158,Sara,HR,55k,5,2021-06-23,five
+269,Riya,IT,"44,474",6,2023-03-03,five
+251,Karan, IT,42k,3,2022-07-24,10 yrs
+283,Sunil,Hr ,65167,1,abc,10
+456,Amit,IT,₹84529,5,,two
+325,Rahul,HR,"31,620",6,abc,3 yrs
+439,Vikas,sales ,,1,2021-09-28,5 yrs
+242,Rahul,financee,₹114320,2,2020-08-15,
+354,Amit,sales ,,5,,10 yrs
+286,Rahul,Finance,"111,232",4,2022-12-15,5 yrs
+459,Priya,IT,,3,abc,two
+123,Vikas,sales ,"89,950",5,abc,9
+474,John,HR,114k,5,abc,5
+170,Omar,Hr ,"71,144",6,20/12/2022,2 yrs
+463,Priya,FINANCE,"106,389",6,abc,
+295,John,IT,117851,3,,three
+152,Neha,sales ,₹114819,2,abc,
+480,Karan,Finance,86k,5,2021-12-07,two
+120,Omar,Operations,"51,093",3,,9 yrs
+351,Sara,Hr ,"71,662",2,abc,
+278,Riya,Finance,72k,2,2023-09-27,10
+428,Neha,Hr ,₹119463,1,24/5/2020,1 year
+122,Karan,sales ,,2,abc,
+482,Vikas,Sales,,1,,1 year
+422,Omar,I.T.,,5,2020-11-24,8 yrs
+451,Karan,Hr ,₹87367,6,abc,4 yrs
+446,Sara,Sale,"102,551",2,2020-01-01,4
+311,Vikas,financee,"58,939",3,abc,8 yrs
+443,Priya,Operations,55k,3,2021-11-21,1 year
+268,Neha,sales ,"49,974",5,,10 yrs
+284,John,sales ,91k,3,6/11/2020,8 yrs
+475,Vikas,HR,,5,abc,three
+214,Sara,Hr ,"95,683",1,,8
+191,Neha,Hr ,,2,2023-04-03,three
+340,Sunil,IT,"43,529",6,abc,
+364,Karan,I.T.,96k,4,,3
+176,John,Sales,77477,4,abc,five
+111,Riya,IT,46762,6,,6 yrs
+143,Riya, IT,109498,4,,
+217,Omar,I.T.,"56,522",5,2023-03-20,
+346,Vikas,Sales,₹30157,5,,
+317,John,Operations,"67,128",5,2023-05-07,8
+452,Sara,it,₹43970,6,18/7/2022,five
+382,Sara,financee,"103,281",4,,five
+500,Amit,Sales,57k,5,,
+132,Karan,Finance,₹109826,4,abc,0
+117,Sara,Hr ,96918,6,2020-06-08,three
+307,Neha,Finance,"41,818",3,abc,9 yrs
+189,Omar,financee,101k,3,abc,6
+487,Aisha,FINANCE,,4,,
+458,Karan,Finance,41k,1,,10
+220,Amit,Finance,64787,5,abc,two
+290,Neha,it,94532,5,2022-07-08,
+357,Aisha,I.T.,"45,776",4,abc,1 yrs
+413,Karan,Sales,₹61082,5,abc,5 yrs
+330,John,Hr ,,6,,2
+315,Sunil,Sales,₹99990,3,2022-09-28,0 yrs
+343,Vikas,HR,72k,5,,9 yrs
+281,Aisha,sales ,₹88580,5,abc,
+140,John,it,70k,6,13/5/2023,1 year
+185,John,IT,,2,2021-07-04,
+234,Neha,Sales,41050,2,2022-08-21,10 yrs
+343,Sunil,financee,"47,709",2,21/10/2023,
+326,Karan,it,,1,abc,two
+249,Neha,Finance,₹78974,5,abc,two
+420,Riya,financee,118k,6,,1 year
+239,Amit,Hr ,94486,1,abc,0
+107,Sunil,Finance,83k,4,27/3/2020,6
+198,Karan,I.T.,₹62631,2,abc,10 yrs
+181,Vikas,Sale,100k,4,2022-04-12,10 yrs
+107,John,FINANCE,66188,1,23/8/2021,five
+146,Vikas,Hr ,110k,6,abc,three
+475,Riya,IT,,4,,2 yrs
+474,Sunil,Operations,"39,027",2,abc,0
+109,Neha,it,"38,302",4,16/9/2021,
+149,Pooja,sales ,,2,abc,
+287,Riya,Hr ,₹57359,1,12/9/2023,
+475,Priya,Operations,,6,,
+492,Vikas,Hr ,₹90125,1,,9 yrs
+261,Pooja,it,82k,5,7/7/2022,
+471,Rahul,Operations,32k,1,28/6/2020,
+119,Sunil,it,"78,114",2,,1
+349,Amit,Sale,42k,1,abc,
+424,Sara,sales ,,3,2021-06-17,
+213,Omar,Operations,,4,abc,2
+349,Omar,sales ,"110,739",2,2021-02-09,1 year
+287,Aisha,Finance,,3,abc,3 yrs
+179,Sara,Sale,"61,856",2,abc,7
+478,Pooja,Finance,"63,902",4,2021-12-23,2 yrs
+202,Sara,Sale,,1,2023-11-09,0
+294,Pooja,Sale,"108,263",1,2021-04-17,8 yrs
+350,Omar,Sale,32k,3,abc,0
+177,Aisha,I.T.,"80,096",6,19/3/2023,9
+205,Vikas,Sales,106156,3,5/11/2021,1
+262,John,Sale,70k,4,,0
+405,Riya,Finance,33418,5,abc,7
+215,Rahul,I.T.,31967,2,28/10/2023,1 year
+497,Rahul,Hr ,"110,151",5,,
+385,Omar,financee,₹54884,4,2022-05-15,1 year
+146,Amit,financee,44833,4,,1 yrs
+454,Vikas,Sale,₹41952,6,abc,8
+271,Neha,sales ,,4,,
+418,Sara,Operations,"95,358",1,abc,
+225,Pooja,Operations,,2,2021-01-21,9 yrs
+144,Rahul,HR,52k,5,2021-08-24,three
+134,Sara,I.T.,102151,1,,
+347,Amit,Sale,"85,974",3,abc,1 year
+192,Neha,Finance,,4,abc,0
+105,Vikas,Finance,62k,5,abc,9
+199,Aisha,it,118142,4,abc,0 yrs
+384,Pooja,IT,103k,1,,9
+404,Priya,FINANCE,120k,4,,
+291,Sara,IT,,4,16/12/2022,2
+470,Rahul, IT,96k,1,2020-06-15,4 yrs
+202,Riya,Operations,,3,,5 yrs
+172,Amit,FINANCE,,3,abc,two
+127,Priya,I.T.,₹108134,5,abc,two
+149,Sunil,Operations,119715,2,12/7/2021,
+133,Sunil,HR,91k,3,13/12/2020,10 yrs
+372,Sunil,I.T.,107402,5,abc,6
+188,Vikas,sales ,"44,984",5,4/8/2021,two
+267,Sunil,sales ,116529,5,abc,9
+205,Vikas,it,₹119071,6,,
+100,Amit,financee,77086,4,abc,6
+343,John,Finance,102800,3,,7
+143,John,sales ,"85,797",2,18/8/2023,
+395,Sunil,Sale,"83,849",5,2022-01-02,9
+473,Amit,financee,"40,254",5,21/12/2020,
+340,Sunil,financee,103k,3,23/10/2022,0
+393,Rahul,sales ,₹33578,1,,4 yrs
+107,Amit,HR,₹107564,3,,
+174,Neha,Sales,₹80222,6,24/6/2020,five
+304,Sunil,Operations,₹60626,4,28/7/2020,
+149,Pooja,sales ,85k,3,abc,3 yrs
+446,Amit,Sales,,1,17/2/2023,3
+117,Rahul,Hr ,42050,5,abc,
+456,John,Operations,₹116570,3,,two
+298,Aisha,IT,,4,2021-10-13,2
+414,Vikas,HR,,1,2022-08-01,10
+458,Aisha,I.T.,₹97552,4,2023-12-25,7 yrs
+270,Vikas,Operations,,3,,8
+253,Amit,I.T.,,6,2023-12-07,1 year
+132,Sara,financee,₹95494,1,abc,1
+479,Neha,Finance,,4,,
+333,Neha,Sales,₹43937,5,abc,1 yrs
+209,Sara,IT,,3,abc,3
+151,Sara,sales ,₹50677,1,abc,7
+427,Karan,financee,"52,878",6,23/8/2020,5
+198,Priya,financee,"100,742",2,,1 year
+190,John,sales ,36k,2,2023-05-11,0
+114,Sunil,financee,"88,303",5,,
+221,Amit,I.T.,₹58922,5,,five
+468,Riya,sales ,77001,1,abc,5 yrs
+409,John,FINANCE,"105,775",2,abc,two
+476,Riya,Finance,"59,151",2,abc,
+331,Sunil,Finance,40890,2,abc,five
+392,Amit,Hr ,₹90786,2,2022-11-15,5 yrs
+318,Sara,Operations,,5,2022-12-02,three
+416,Rahul,it,,5,abc,3 yrs
+280,Karan,financee,,3,abc,three
+417,Aisha,FINANCE,₹38601,1,,five
+177,Riya,financee,"84,596",2,15/12/2020,3
+366,Vikas,it,104k,4,,3 yrs
+247,Sara,IT,49443,5,,
+262,Neha,Sales,87788,5,abc,
+112,Omar, IT,,6,,
+474,Sunil,IT,116k,1,2023-10-27,5
+500,Sara,Operations,₹40956,6,2020-09-13,10
+466,Omar,it,77k,3,abc,6
+472,Omar,Sale,,2,2021-05-16,
+309,Vikas,Operations,"90,570",2,2021-03-27,three
+386,Amit, IT,33k,3,,
+161,Sara,Operations,"77,416",4,22/8/2020,9 yrs
+183,Neha,IT,70k,2,2020-05-12,4
+492,Vikas,Sales,106k,3,2022-05-22,8
+106,John,financee,77k,2,2020-04-05,
+167,Rahul, IT,₹77522,5,,2 yrs
+164,Riya,Sales,,4,abc,
+254,Vikas,IT,"56,922",2,1/2/2021,9
+356,Sara,Sale,,1,,8
+358,Amit, IT,₹107251,6,,
+489,Aisha,HR,₹98121,3,abc,three
+407,Amit,Operations,58k,4,,
+302,Sunil,financee,116317,4,2023-12-19,5
+404,Omar,HR,"66,505",5,abc,five
+155,Priya,Operations,94138,1,2020-12-02,2
+255,Neha,Hr ,₹116649,4,16/8/2022,
+320,Priya,I.T.,₹79327,1,abc,three
+349,Sara,HR,"116,517",6,abc,7 yrs
+492,Karan,it,38050,3,abc,6 yrs
+310,Aisha,IT,61k,5,28/5/2020,
+335,Vikas,I.T.,,6,11/7/2023,
+453,Vikas,Finance,93k,2,,4 yrs
+393,Omar,FINANCE,,5,abc,5 yrs
+358,Sara,Operations,86742,4,2023-05-20,five
+209,Vikas,Sale,"99,824",4,,three
+310,Aisha,HR,56k,6,,
+225,Sara,Operations,₹103377,6,9/3/2020,
+469,Sunil,FINANCE,"71,144",3,abc,
+367,Vikas,Hr ,98846,5,,
+189,Riya,Operations,,4,abc,10
+285,Sunil,Sale,"114,593",1,abc,
+373,Riya, IT,31k,1,28/3/2023,6 yrs
+141,Sara, IT,,2,abc,five
+428,John,IT,55k,5,abc,5
+233,John,sales ,,4,2022-03-13,
+336,Riya,Operations,₹82564,5,2022-03-03,1 year
+160,Riya,Sale,₹64891,4,7/10/2021,10
+309,Sara,Sales,"60,865",4,2021-06-19,7 yrs
+454,Omar,sales ,79k,1,abc,
+229,Pooja,Hr ,68k,2,9/3/2023,2 yrs
+463,Pooja,I.T.,,2,12/7/2022,three
+184,Aisha,Sale,₹102833,1,abc,1 year
+159,Sunil,IT,₹103512,4,2020-12-28,3
+483,Pooja,Operations,"57,839",1,8/8/2020,two
+291,Neha,HR,₹33784,6,9/10/2020,10 yrs
+474,Amit,FINANCE,46k,3,2020-12-03,6
+494,Omar,HR,₹51356,3,,10 yrs
+362,Riya, IT,"65,190",5,abc,
+362,Aisha, IT,118662,4,14/2/2023,2
+367,Omar,Operations,,5,14/2/2023,
+158,Amit,sales ,,1,abc,9
+208,John,HR,₹118265,5,abc,6 yrs
+416,Neha,it,118k,1,,0
+432,Riya,I.T.,98k,4,,
+330,Neha,Finance,,3,abc,
+349,Omar, IT,₹110149,2,2020-09-01,1 year
+159,Sunil,Hr ,,2,,three
+167,Karan,Sale,83k,4,abc,2
+410,Sunil,HR,84523,5,,0 yrs
+320,Priya,Hr ,₹103660,3,,
+324,Sara, IT,,5,,three
+490,Pooja, IT,49k,2,abc,
+236,Aisha,Sale,84396,2,abc,
+326,John,FINANCE,96k,3,,three
+305,Vikas,Sale,,3,abc,5
+254,Priya,IT,"46,515",5,17/9/2022,
+376,Neha,Operations,,6,2020-06-09,two
+252,Neha,Sale,"60,945",5,abc,3 yrs
+364,Neha,Finance,₹42843,4,,three
+401,Pooja,financee,₹106585,4,,
+455,Riya, IT,34k,1,2023-02-04,2 yrs
+256,Aisha,Operations,68532,5,abc,
+122,Omar, IT,69k,4,abc,7
+472,Aisha,HR,₹111735,2,2/11/2023,
+392,Vikas,FINANCE,"46,224",1,abc,8
+109,Karan,FINANCE,,5,2/8/2020,
+370,Aisha,I.T.,"43,019",2,9/2/2021,
+414,Aisha,Sales,,3,2021-07-11,five
+360,Sara,financee,44k,4,2023-02-16,4
+490,Pooja,sales ,₹104481,1,abc,
+337,Neha,Operations,₹30071,3,12/11/2021,2 yrs
+145,Omar,Sale,₹102938,2,21/5/2023,10 yrs
+207,Sunil,Hr ,,5,abc,
+375,Rahul,sales ,₹46176,5,2022-07-06,five
+104,Riya,Sale,32592,1,2022-12-08,
+200,Vikas,I.T.,₹104593,2,2021-11-24,9
+232,Neha,Finance,,6,2022-11-18,6 yrs
+162,Vikas,financee,,6,14/9/2023,6 yrs
+141,Neha,FINANCE,33325,2,2021-06-10,6 yrs
+228,Riya,HR,60k,5,2021-02-25,
+131,Rahul,I.T.,,4,2020-05-20,0 yrs
+295,Omar,HR,"108,587",1,26/7/2020,two
+364,Aisha,Hr ,"31,610",6,27/4/2021,1 year
+195,Riya,Sales,"70,850",4,abc,9 yrs
+288,Rahul,financee,,2,2020-07-12,1 year
+407,Amit,it,102k,4,,0
+338,Neha,Finance,61328,4,2021-01-12,1 yrs
+325,Riya,sales ,106767,2,9/12/2021,8
+111,John,Operations,₹118795,6,10/8/2021,five
+464,Priya,HR,"55,124",4,2022-06-20,9 yrs
+176,Aisha,Finance,"46,575",5,,three
+365,Sunil,Sales,₹98875,4,,3
+302,Riya,Operations,78k,3,3/5/2023,two
+362,Neha,it,₹91282,3,abc,4 yrs
+142,Karan,financee,99k,2,12/1/2021,10 yrs
+254,Amit,FINANCE,119592,6,abc,two
+434,Pooja,FINANCE,49566,4,abc,5
+319,Sara,Sale,"88,978",1,2022-03-19,10 yrs
+215,Omar,I.T.,81k,5,2/3/2021,1 year
+204,Omar,HR,,3,,
+195,Riya,HR,66k,6,,5
+156,John,financee,84842,2,,9
+357,Amit,sales ,90156,4,abc,
+247,Vikas, IT,"81,260",2,abc,
+301,Amit,IT,"112,324",3,abc,
+486,Priya,financee,82k,2,abc,five
+119,Rahul,Operations,₹47888,4,abc,2
+187,Rahul,Hr ,"46,272",6,,7
+465,Rahul,sales ,"36,259",6,2020-07-23,0
+291,Riya,Finance,,3,,
+267,Aisha,financee,"57,147",4,7/2/2022,0 yrs
+106,Omar,Finance,58k,6,abc,8 yrs
+148,Neha,it,112689,3,2021-11-25,1 year
+361,Vikas,Sale,60464,1,2020-05-08,three
+251,Riya,Sales,79250,6,2023-12-11,
+217,Amit,it,,6,24/4/2023,
+351,Priya,Finance,36829,1,2021-10-18,6
+469,Riya,Finance,52k,3,9/8/2020,five
+325,Omar,financee,,4,,6 yrs
+332,Karan,I.T.,107k,2,7/1/2020,1 year
+480,Aisha,I.T.,,4,abc,5 yrs
+456,Rahul,sales ,₹62347,1,22/1/2021,7 yrs
+226,Neha,Hr ,,6,abc,6 yrs
+356,Pooja,sales ,,1,24/4/2023,
+149,Priya,FINANCE,97k,6,,two
+390,Riya,Sales,37k,4,2023-11-20,
+241,Priya,it,₹60773,6,2020-01-02,two
+408,Pooja,FINANCE,"74,175",4,11/6/2021,
+282,Aisha,FINANCE,43130,1,abc,1 year
+438,Riya,IT,71k,1,abc,three
+343,Vikas,Sale,43166,6,,three
+186,Sunil,HR,93198,2,2021-11-23,5 yrs
+212,Amit,Operations,117285,5,2023-02-26,1 year
+434,Vikas,FINANCE,85k,1,2022-02-04,5 yrs
+294,Neha,Sale,"107,340",2,,two
+261,John,Operations,58692,5,22/12/2020,8 yrs
+461,Neha, IT,₹94883,1,2022-03-27,7 yrs
+437,John,IT,₹74225,3,17/12/2022,
+167,Aisha,FINANCE,106072,5,,3 yrs
+471,Neha,HR,118908,1,6/1/2020,five
+225,Rahul,HR,"69,674",2,abc,three
+288,Rahul,HR,"94,122",2,2020-10-19,1 year
+430,Amit,I.T.,103k,1,abc,1
+437,Priya,Sales,"30,697",4,,
+143,Priya,financee,₹101359,6,abc,9 yrs
+367,Aisha,Hr ,,2,,9
+473,Neha,I.T.,₹63419,6,,3 yrs
+424,Amit,sales ,"116,155",5,abc,
+238,Priya,financee,,3,,two
+213,Omar,HR,"70,180",4,23/10/2022,9
+262,Sara,I.T.,"99,688",5,,five
+390,Amit,Operations,"62,651",4,12/8/2022,8 yrs
+425,Priya,Operations,,1,19/1/2020,two
+446,Pooja,Sale,"97,503",6,abc,
+410,Sunil,Sales,,3,abc,5 yrs
+447,Riya,financee,67k,3,,two
+416,Sunil,IT,30k,3,abc,two
+351,Riya,HR,,4,abc,5 yrs
+319,John,financee,₹87484,2,,
+168,Omar,I.T.,73412,4,,5
+156,Priya,FINANCE,"75,104",1,2021-01-22,7 yrs
+348,Priya,FINANCE,"49,987",2,abc,3
+196,Neha,sales ,113162,4,,1 year
+368,Karan,Sale,₹59068,4,2020-09-14,5 yrs
+464,Omar,Finance,,1,abc,4 yrs
+271,Karan,HR,"119,517",2,,five
+144,Priya,Sales,"35,379",6,15/2/2020,4
+122,John,Finance,100k,3,abc,6
+406,Karan,Sale,,6,,1 year
+305,Neha,Operations,"50,971",2,17/12/2022,
+187,Riya,IT,99935,3,,1 yrs
+423,Neha,it,72540,4,,
+375,Vikas,FINANCE,43k,6,abc,five
+288,John, IT,42280,2,2021-10-16,five
+451,Neha,Finance,39103,4,2023-02-24,
+106,Sara,sales ,46k,2,2020-01-26,1 year
+183,Karan,it,"37,323",6,2022-11-18,two
+172,Rahul,Finance,33145,3,abc,
+244,Aisha,HR,,1,abc,10 yrs
+278,Priya,Operations,,1,abc,two
+472,Karan,Sales,₹46716,3,16/12/2023,five
+314,Pooja, IT,"99,792",2,2023-02-19,3
+108,Aisha,financee,47k,3,,3
+160,Amit,Sale,78k,1,2020-11-19,
+225,Priya,IT,₹49623,6,abc,7 yrs
+156,John,IT,"52,751",2,14/11/2023,9
+316,John,Operations,42050,4,abc,1 year
+184,Rahul,FINANCE,112k,1,,
+208,Neha,IT,,2,2022-02-19,5 yrs
+104,Aisha,FINANCE,80k,4,abc,
+400,Sara,I.T.,92515,2,,10
+356,Pooja,Sale,₹98588,2,abc,3
+390,Vikas, IT,"70,572",1,,4 yrs
+145,Priya,Sales,₹92031,6,16/1/2022,five
+287,Pooja,Hr ,₹40943,5,,
+248,Omar,Sales,₹39565,4,2020-06-15,two
+493,Omar,Finance,72k,5,24/8/2020,five
+174,Vikas,Finance,₹34105,1,2022-07-16,6 yrs
+425,John,HR,,3,,1 yrs
+485,Karan,Sales,₹84932,5,2021-12-14,
+470,Vikas,Hr ,48k,1,abc,two
+164,Vikas, IT,113744,6,,
+289,Aisha,IT,₹95809,6,12/6/2023,1 year
+291,John,financee,₹101141,3,2023-11-10,two
+153,Sunil,Sale,₹43068,5,,
+200,Sunil,HR,₹84124,1,10/5/2022,
+312,Rahul,IT,"98,021",3,,
+395,Omar,Sales,79k,5,2021-07-08,9 yrs
+383,John,it,₹42224,1,abc,2 yrs
+195,Riya,sales ,59065,6,,
+335,Neha,HR,44034,1,2020-08-28,
+349,Vikas,HR,117k,6,2023-03-06,three
+414,Neha,financee,,2,,
+267,John,Finance,118k,4,abc,7
+228,John,Finance,"106,499",3,abc,
+410,Omar,I.T.,,4,9/10/2023,three
+115,Priya,Sales,72294,1,2021-11-12,5 yrs
+209,Sunil,Hr ,₹103615,3,2021-09-07,1 year
+262,Aisha,Finance,,3,abc,9 yrs
+109,Vikas,FINANCE,105465,4,2020-09-17,1 yrs
+240,Aisha,FINANCE,81k,4,2020-07-10,
+214,Rahul,IT,48184,2,2020-04-24,
+255,Priya,Operations,118k,6,15/2/2021,1 year
+442,Priya,financee,₹105744,3,8/2/2022,1
+455,Priya,HR,94828,4,4/6/2021,
+166,Riya,it,80538,4,2021-02-09,
+223,Rahul, IT,"92,421",4,abc,1 year
+360,Aisha,IT,,6,abc,three
+365,Omar,HR,,2,2020-01-02,8
+417,Amit,Sale,83026,6,6/4/2022,
+194,Pooja,Sale,111542,3,2020-03-06,7 yrs
+110,John,Operations,"31,275",3,2023-10-01,0
+368,Pooja,Sales,42k,4,18/5/2023,7 yrs
+254,Amit,it,,3,28/4/2021,five
+284,Riya,Sale,,3,9/11/2022,9 yrs
+258,Riya,IT,,4,2023-10-26,five
+448,John,financee,67982,3,abc,
+127,Sunil,Operations,,1,2022-03-12,five
+399,Priya,Operations,58686,6,4/5/2022,9 yrs
+396,John,sales ,"84,566",2,,6
+369,Sunil,Sale,₹119805,3,2023-08-14,1 yrs
+224,Neha,financee,"101,207",3,abc,
+128,Karan,sales ,72k,5,2023-12-11,five
+169,Riya,sales ,49k,6,2020-08-20,
+226,Riya,HR,₹96296,1,16/3/2021,
+321,John,sales ,32838,2,abc,three
+297,Amit,FINANCE,44068,1,19/7/2020,
+281,John, IT,65k,5,,2 yrs
+335,Amit,FINANCE,₹116303,1,20/11/2021,three
+134,Rahul,IT,,4,2023-06-25,
+131,Neha,Operations,34k,5,abc,2
+229,Sunil, IT,118978,4,,2 yrs
+496,Omar,Hr ,"54,288",4,27/8/2022,
+324,Omar,sales ,79298,5,16/4/2020,3 yrs
+299,Amit,it,"39,801",5,2021-09-20,1 yrs
+434,Rahul,IT,83k,1,2021-04-18,
+277,Priya,I.T.,₹40563,2,,1 year
+255,Sara,Finance,"55,712",5,2023-11-22,five
+459,Omar,financee,"45,465",3,,1
+311,Amit,FINANCE,100283,1,2020-01-05,5 yrs
+166,Neha,I.T.,,1,,4 yrs
+434,Riya,financee,,1,2022-07-23,2 yrs
+479,Pooja,Finance,46088,6,abc,three
+253,Priya,IT,,4,,6 yrs
+116,Pooja,FINANCE,33k,5,abc,1 yrs
+373,Sunil,I.T.,105052,4,5/1/2022,3 yrs
+392,Omar,IT,65k,6,19/11/2022,
+325,Rahul, IT,"113,590",2,2023-01-19,2 yrs
+232,Sunil,Sales,"49,254",6,abc,9
+131,Amit,Operations,"76,312",6,abc,1
+204,Aisha,Hr ,₹84521,3,abc,5 yrs
+418,Rahul,Sales,"49,669",1,,6
+295,Sara,sales ,"104,108",5,abc,8 yrs
+237,Riya,Hr ,61k,2,abc,5 yrs
+386,Pooja,HR,77486,4,abc,9 yrs
+246,Aisha,it,"85,184",2,2023-11-25,1 yrs
+491,Pooja,Sale,₹46567,1,abc,5
+464,Karan,HR,"109,791",1,abc,6
+475,John,Sale,,5,abc,
+218,Karan, IT,"97,853",5,,3 yrs
+394,Neha,it,,3,8/3/2022,1 yrs
+172,Priya,Finance,"33,584",1,,1 year
+366,John, IT,₹45720,4,5/5/2020,3 yrs
+180,Pooja,it,,6,,
+225,John,Hr ,58k,4,6/12/2023,2
+101,Omar,HR,94315,1,20/7/2021,8 yrs
+218,Karan,sales ,"81,407",3,abc,five
+159,John, IT,₹44881,6,,0
+500,Omar,IT,71k,4,13/5/2020,
+257,Sunil,I.T.,59007,6,2020-10-20,1 yrs
+492,Sara,financee,38318,3,18/7/2021,three
+210,Pooja,Sale,"32,625",1,2023-08-02,
+239,Amit,HR,113k,1,2020-02-17,
+476,Neha,FINANCE,54k,4,15/4/2020,1 year
+249,Omar,HR,₹103530,3,16/12/2023,8
+395,Rahul,I.T.,"92,495",1,2022-06-05,five
+403,Riya,HR,"92,064",6,16/5/2023,2 yrs
+452,Neha,Hr ,"57,423",4,abc,
+317,Amit,HR,"51,245",6,abc,7
+483,Pooja,I.T.,₹68895,3,,8 yrs
+365,Neha,Operations,91880,2,abc,1
+202,Amit,HR,,5,3/6/2021,0 yrs
+245,Omar,Hr ,77k,5,5/2/2021,2
+367,Neha,sales ,"107,616",3,2023-04-06,9
+343,Rahul,it,₹47953,4,abc,6 yrs
+259,Pooja,it,99558,6,abc,two
+433,Aisha,Sales,76k,6,18/4/2023,five
+284,Pooja,Finance,,3,20/5/2020,
+456,Amit,Operations,,6,abc,
+289,Rahul,Hr ,,4,21/12/2020,1
+435,Neha,Sale,32185,5,2022-09-01,3 yrs
+142,John, IT,"56,041",4,27/1/2022,5 yrs
+338,Neha,Sale,,1,,three
+141,Amit,Finance,70341,3,,9
+196,Karan,Finance,67k,1,,0
+375,Neha,Finance,74k,2,2022-12-17,8
+339,Karan,IT,45112,4,2021-08-19,
+181,Omar, IT,73871,3,abc,1 year
+342,Riya,Operations,₹74286,3,abc,
+183,Pooja,Sales,"56,012",2,26/1/2020,1 year
+184,Sunil,IT,48k,3,2020-03-08,
+344,John,it,43095,4,,2 yrs
+244,Vikas,Sale,,3,,5 yrs
+356,Rahul,Hr ,108534,2,2023-04-02,five
+177,Karan,Operations,116k,4,abc,two
+106,John,it,₹96449,1,13/7/2020,two
+357,Aisha,FINANCE,,2,,0
+363,Neha,Sale,85k,1,12/1/2022,
+377,Karan,Sales,₹84664,3,2022-11-02,8
+143,Pooja,HR,₹112958,3,2022-08-23,
+175,Neha,Sale,,3,2022-07-13,1 yrs
+255,Neha,financee,"79,051",4,24/12/2021,two
+192,Vikas,Operations,,4,2021-05-09,3 yrs
+213,Priya,Hr ,₹90377,6,16/9/2020,three
+177,Sunil,Sale,₹99761,3,abc,8
+482,Pooja,it,₹71331,1,abc,three
+220,Omar,financee,,4,,8 yrs
+484,Riya,I.T.,,6,abc,three
+180,John,I.T.,₹99817,6,abc,6
+170,Neha,Hr ,₹108586,1,2022-10-08,5
+182,Sunil,it,52k,2,abc,3
+190,Sunil,financee,114066,2,abc,
+500,Omar,Operations,"114,815",6,27/12/2020,three
+466,Pooja,sales ,,2,26/2/2021,6
+224,Sara, IT,,4,abc,7 yrs
+404,Rahul,FINANCE,,2,,three
+465,Sunil,sales ,"49,205",3,8/1/2021,9 yrs
+286,Amit,financee,97740,3,abc,five
+189,Sunil,I.T.,31865,3,,
+482,Sara,FINANCE,,4,2020-06-17,7
+231,Sara,Sale,53944,6,2023-03-02,1 yrs
+131,Riya,Finance,₹106188,1,abc,two
+201,Priya,financee,57k,5,,
+228,Sara,I.T.,108820,3,,three
+157,Sara,Sales,₹71839,4,2021-03-03,7
+498,Priya,FINANCE,57k,3,,five
+187,John,Hr ,₹72687,6,8/5/2023,2 yrs
+472,Aisha,Sale,"85,744",4,13/1/2023,2 yrs
+109,Amit,Finance,114k,1,,8 yrs
+154,Priya,Finance,₹92872,1,abc,1 yrs
+241,Pooja,it,87425,6,,
+324,Riya,it,"64,172",5,5/2/2022,3 yrs
+339,Riya, IT,72k,3,abc,0 yrs
+108,Neha,I.T.,₹72869,3,2022-11-03,two
+412,Vikas,Finance,₹86485,4,abc,two
+394,Karan,IT,111748,3,abc,10 yrs
+466,Neha,Sales,54752,1,28/1/2021,1
+436,Riya,Finance,69705,2,2022-01-05,
+328,Sunil,I.T.,,1,,1 yrs
+483,Aisha,I.T.,56k,4,abc,6 yrs
+284,Karan,HR,,6,2023-08-01,
+165,Pooja,Sales,,5,,6
+479,Sara,FINANCE,117643,1,13/11/2022,
+269,Rahul, IT,"36,094",4,2021-03-04,two
+337,Omar,financee,,3,2023-08-09,7
+212,Pooja,Sales,,6,4/4/2021,10 yrs
+463,Sunil,sales ,96k,2,abc,10
+107,John,sales ,60k,1,abc,three
+160,Amit,Operations,115912,3,18/8/2020,4 yrs
+318,Vikas,IT,₹42397,1,10/3/2022,7
+303,Pooja,Finance,48574,6,25/3/2020,3 yrs
+181,Priya,sales ,51710,6,2021-09-20,1 year
+343,Sunil,it,68k,6,2022-04-24,five
+182,Sara,FINANCE,₹50898,4,12/2/2021,2
+205,Sunil,Sales,,5,,
+377,Amit,Hr ,49k,1,,
+145,Amit,Hr ,₹61626,6,21/2/2022,three
+441,Karan,it,40891,5,2023-04-19,1 year
+121,Neha,HR,,1,abc,1 year
+393,Pooja,IT,,2,abc,7 yrs
+449,Aisha,it,65k,4,abc,
+270,Aisha,Hr ,,6,,three
+279,Aisha,FINANCE,76k,1,,6
+147,Priya,Sale,108377,6,2022-09-12,9 yrs
+215,Sunil,IT,100k,1,,7
+106,Karan,Finance,₹93343,5,abc,three
+289,Aisha,Finance,71963,3,5/2/2023,9 yrs
+467,Amit,sales ,"65,275",1,2023-10-15,
+277,Sunil,Sale,,6,abc,five
+258,Pooja,Sale,"60,482",5,2023-03-25,
+496,Priya,Hr ,38339,2,21/8/2020,1 year
+308,Omar,Sale,,3,2022-03-23,2
+216,Aisha,sales ,,5,2/9/2020,
+102,Aisha,I.T.,33k,1,,1 yrs
+393,John, IT,,5,2020-09-26,5
+151,Sunil,Finance,₹110372,6,22/9/2020,3
+351,Riya,FINANCE,₹76965,6,abc,10 yrs
+264,John, IT,₹112095,4,1/8/2020,7 yrs
+354,Sara,FINANCE,,2,24/10/2021,
+255,Omar,Finance,₹36872,6,,1
+464,Aisha,HR,"104,861",1,2020-07-07,3
+299,Riya,it,"48,568",2,,
+312,Omar,I.T.,"63,216",1,,
+181,Sara, IT,38716,6,23/7/2022,
+489,Priya,I.T.,56493,2,2020-08-16,
+223,Omar,Hr ,"87,936",1,,4 yrs
+336,Riya,sales ,80k,5,abc,0
+408,Pooja,Operations,50k,1,,5
+153,Vikas,Finance,,4,2020-04-25,7 yrs
+451,Neha,I.T.,"94,298",3,16/3/2023,3
+298,Karan,Sales,78244,1,,five
+315,Omar, IT,86k,3,,3 yrs
+337,Pooja,FINANCE,83504,4,18/11/2023,9
+211,Aisha,financee,₹80369,2,7/7/2021,five
+394,Sara,FINANCE,₹83908,2,2021-08-11,
+127,Aisha,HR,71064,3,abc,2 yrs
+151,Sara,financee,,5,18/11/2023,five
+149,Sara,IT,₹91972,2,,0 yrs
+273,Priya,it,52k,6,26/11/2021,three
+108,Neha,Hr ,84753,5,2022-09-01,3 yrs
+329,Omar,it,,3,20/1/2020,1 year
+298,Rahul,Sale,64k,5,11/3/2022,3 yrs
+236,Priya, IT,"71,761",1,2020-03-26,2
+392,Sara,Finance,39k,5,2020-03-19,9
+202,Amit,HR,₹42004,6,23/2/2023,five
+201,Amit, IT,120k,6,,3
+458,Priya,Sale,39932,2,19/5/2023,6 yrs
+476,Riya,financee,113k,2,abc,
+481,Vikas,HR,"119,270",6,24/6/2023,5 yrs
+490,Sunil,it,101554,1,abc,7
+477,Sara,I.T.,₹48275,6,,
+108,Omar, IT,,4,,1 year
+322,John, IT,,3,,7 yrs
+423,John,it,₹119660,5,17/5/2022,
+109,Sunil,it,84657,3,,2
+227,Sunil,Hr ,,4,abc,two
+299,Sara,Finance,₹77681,2,,5 yrs
+409,Pooja,Finance,,3,,6 yrs
+233,Riya,Sales,₹33777,1,,
+240,Sunil,Operations,120k,2,abc,three
+381,Rahul,sales ,86919,3,2020-11-10,
+171,John,HR,50k,3,abc,1 year
+455,John,financee,,3,2021-04-02,
+121,Riya,FINANCE,49k,3,abc,
+120,Riya,Hr ,₹60081,1,abc,2 yrs
+236,Pooja,it,"56,422",3,9/7/2020,1 year
+204,John,HR,35460,5,7/10/2022,0 yrs
+211,Pooja,IT,31k,2,abc,1 year
+387,Neha,Operations,,1,2020-10-02,4
+149,Rahul,it,112k,1,2022-07-21,three
+204,Priya,sales ,,1,15/10/2022,
+474,Amit,Sales,₹82106,1,,
+494,Karan,Sale,,6,2022-04-08,9
+466,Amit,IT,76k,4,,three
+189,Neha,I.T.,78773,6,2023-11-18,4 yrs
+283,Vikas, IT,,3,,two
+157,Pooja,financee,,3,abc,three
+367,Vikas,I.T.,,2,2023-03-27,2 yrs
+223,Sara,I.T.,,2,,1 yrs
+331,Priya,I.T.,"31,385",3,abc,two
+116,Sunil,it,₹63525,5,abc,two
+488,Priya, IT,63050,6,abc,three
+210,Neha,I.T.,"46,827",6,abc,
+229,Neha,HR,92k,2,,1 year
+227,Rahul,I.T.,52k,2,,7
+171,John,Sale,₹33103,3,2023-01-23,7 yrs
+323,Pooja,Sale,38k,6,2022-08-13,0
+440,Riya, IT,99k,4,2020-11-06,3 yrs
+168,Amit,Sale,"37,863",1,9/10/2020,five
+209,Riya,sales ,,2,,
+344,Pooja,HR,₹62383,6,abc,
+198,Vikas,Sale,78979,6,,three
+495,Priya,I.T.,"38,694",1,12/5/2023,10 yrs
+374,Neha,it,₹97035,6,3/12/2023,8 yrs
+422,Karan,Operations,106k,3,12/5/2021,10 yrs
+235,Neha,I.T.,117776,6,,
+470,Amit,Operations,61k,2,abc,5 yrs
+410,Priya,Operations,,1,abc,two
+421,Sunil,Hr ,90k,1,2021-03-04,4
+149,Amit,sales ,"116,546",1,20/12/2022,6
+416,Neha,Hr ,64961,1,2022-04-06,three
+163,Priya,Finance,"90,228",2,4/1/2021,1 year
+209,Riya,HR,40747,6,,7 yrs
+264,Rahul, IT,"87,958",2,,3 yrs
+280,Omar,Operations,"79,734",4,abc,6 yrs
+295,Rahul, IT,₹85592,3,,
+295,Aisha,IT,"42,108",6,,2 yrs
+195,Riya,I.T.,70841,1,26/12/2021,8
+220,Rahul,FINANCE,,3,,2
+104,Aisha,Sales,"95,655",1,,9 yrs
+336,Riya, IT,52956,6,abc,1 year
+368,Sunil,sales ,₹109366,3,2023-03-17,1 yrs
+159,Neha,I.T.,,3,,9 yrs
+302,Riya,Sales,₹87544,4,,6
+427,Priya,Operations,₹75947,6,2023-02-20,1 yrs
+199,Karan,financee,"49,128",3,2020-01-17,three
+277,Neha,it,"97,763",1,2023-08-14,three
+474,Amit,sales ,,5,8/1/2020,five
+391,Riya,I.T.,84k,2,abc,1
+444,Sunil,HR,"74,923",6,19/9/2022,8
+215,Rahul,I.T.,64k,4,,8
+337,John,HR,₹77578,4,2022-05-03,1 year
+321,John,I.T.,,3,abc,6
+412,Sara,Sales,"72,879",4,,
+457,Vikas,Sales,,2,2022-06-22,2 yrs
+151,Rahul,Hr ,40793,2,2023-08-04,
+336,Neha,Operations,₹97487,5,,7 yrs
+250,Vikas,Sale,83k,2,2021-08-05,0
+155,Sunil,Sales,39k,5,14/7/2020,7 yrs
+180,Omar,Finance,38k,4,abc,5 yrs
+484,Neha,Sale,₹51519,1,abc,five
+119,Sara,IT,76k,3,,three
+370,Neha,Hr ,₹87008,6,15/1/2022,two
+313,Sunil,Hr ,104959,4,28/1/2021,6
+120,Riya, IT,,1,18/7/2020,two
+397,Riya,financee,116676,4,abc,five
+110,Priya,Sales,51k,4,2021-07-07,
+179,Priya,IT,,4,2022-02-17,
+282,Sara,HR,"54,811",3,,2
+345,Sara,sales ,₹74588,1,2023-04-06,1 year
+298,Aisha,sales ,₹35500,2,1/11/2022,three
+143,John,HR,"45,269",2,2023-08-18,9
+259,Pooja,I.T.,34k,6,27/7/2021,6 yrs
+138,Sunil,Operations,82k,3,28/3/2020,1 yrs
+262,Priya,Sales,105551,1,25/9/2020,
+306,Sara,IT,83k,3,2020-03-03,0 yrs
+307,Pooja,HR,64640,1,2022-03-06,7
+477,Vikas,financee,"119,313",3,,9
+370,Karan,it,"83,941",3,28/2/2023,
+158,Omar,Hr ,55056,6,,two
+168,Riya,Operations,44760,6,,
+288,Aisha,I.T.,114k,4,,five
+350,Karan,I.T.,₹30400,2,,6
+245,Karan,Sales,,5,,7 yrs
+182,Sunil,Finance,₹32247,4,21/3/2020,
+239,Vikas,financee,"38,253",1,abc,
+267,Sara,Sale,,4,24/5/2023,five
+442,Neha,Hr ,₹42594,5,abc,three
+216,Omar,financee,"43,525",2,abc,two
+467,John,Finance,,3,,
+147,Sara,Operations,,4,abc,
+145,Pooja,Hr ,₹66394,6,2022-06-25,10 yrs
+198,John,Sales,60699,2,,
+471,Amit,Finance,78056,6,13/1/2021,five
+155,Priya,FINANCE,₹39596,1,27/3/2022,five
+317,John,Hr ,"64,108",2,2020-04-13,
+217,Amit,Sale,₹103408,6,,3
+375,Pooja,HR,97k,3,abc,7
+457,Vikas,HR,,4,11/8/2021,
+499,Rahul,FINANCE,,3,2021-12-26,two
+375,Vikas,it,37503,3,4/9/2022,4
+407,Vikas,Hr ,"94,374",1,25/5/2020,two
+339,Rahul,IT,36k,2,11/2/2022,1 year
+388,Priya,Finance,84129,3,abc,two
+127,Omar,Finance,"110,505",4,,
+162,Omar,Operations,,3,,8
+370,Vikas,HR,,2,10/12/2021,
+224,Omar,FINANCE,47106,1,15/1/2023,6 yrs
+484,Aisha,FINANCE,68091,6,,two
+293,Karan,I.T.,"105,459",5,,five
+412,Amit,IT,118k,6,7/4/2021,8 yrs
+462,Priya,I.T.,,6,,3
+352,Riya,Sales,,4,3/10/2023,1 year
+498,Pooja,Sale,98743,1,,9
+452,Omar,it,111k,5,abc,5
+129,Priya,Operations,"98,938",3,abc,five
+199,John,Sale,"108,900",2,abc,
+456,Amit,Sale,₹98115,6,abc,
+365,Amit,HR,,2,2020-09-07,five
+137,Aisha,Sale,42k,3,abc,1 year
+317,Sara,financee,"57,637",3,2022-12-02,7 yrs
+252,Riya, IT,₹99285,1,2021-04-21,three
+453,Amit,IT,"78,266",5,abc,five
+487,Neha,Sale,"85,146",5,2023-11-10,4 yrs
+396,Omar,sales ,"73,300",1,,3
+250,Sara,Sales,,4,abc,6
+483,Riya,Operations,103617,3,17/3/2020,
+172,Amit,Hr ,"33,924",2,abc,two
+393,Omar,it,,5,,
+228,Riya,FINANCE,65002,5,,
+441,Pooja,I.T.,,1,3/2/2021,two
+370,Rahul,Hr ,"68,408",1,abc,
+473,Aisha,Finance,₹65405,4,abc,2
+405,John,it,₹42067,4,23/10/2020,
+199,Riya,Finance,59k,3,2021-04-12,7
+447,Priya,HR,,2,,three
+162,Riya,Finance,39k,3,2022-10-02,

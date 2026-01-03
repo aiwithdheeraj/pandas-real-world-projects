@@ -1,0 +1,9 @@
+OrderID,CustomerName,City,Product,Quantity,Price,OrderDate,Currency
+5001,Rahul,Mumbai,Laptop,2,55000,2024-01-12,INR
+5002,Ananya,Delhi,Mouse,5,500,2024-01-13,INR
+5003,John,Bangalore,Headphones,1,2500,2024-01-14,USD
+5004,Maria,Chennai,Keyboard,3,1500,2024-01-15,INR
+5005,Ahmed,Dubai,Laptop,1,700,2024-01-16,AED
+5006,Priya,Pune,Monitor,2,12000,2024-01-17,INR
+5007,David,Kolkata,Mouse,4,500,2024-01-18,INR
+5008,Riya,Hyderabad,Laptop,1,56000,2024-01-19,INR
